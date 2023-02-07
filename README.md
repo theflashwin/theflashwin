@@ -1,4 +1,4 @@
-🧠 - Senior in High School
+🧠 - Senior @ Milton High School
 <br></br>
 ⛈ - Storm Robotics CEO
 <br></br>
