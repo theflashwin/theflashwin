@@ -6,6 +6,6 @@
 <br></br>
 👌 - Proficient Googler
 <br></br>
-🌱 - Learning: Facial Recognition with TensorFlow (<a href="https://awesome-turtle.surge.sh/" target="_blank" >visit it</a>)
+🌱 - Learning: Rust (Blockchain)
 <br></br>
 🌱 - Lastest Project: MILMUNC I Website (<a href="https://milmunc.surge.sh/" target="_blank" >visit it</a>)
