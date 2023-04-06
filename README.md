@@ -1,4 +1,4 @@
-🧠 - Senior @ Milton High School
+🧠 - Senior @ Milton High School [YELLOWJACKET NEXT YEAR]
 <br></br>
 ⛈ - Storm Robotics CEO
 <br></br>
