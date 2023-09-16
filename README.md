@@ -1,4 +1,4 @@
-🧠 - Senior @ Milton High School [YELLOWJACKET NEXT YEAR]
+🧠 - CS + MATH @ Georgia Tech
 <br></br>
 ⛈ - Storm Robotics CEO
 <br></br>
@@ -8,4 +8,4 @@
 <br></br>
 🌱 - Learning: Rust (Blockchain)
 <br></br>
-🌱 - Lastest Project: MILMUNC I Website (<a href="https://milmunc.surge.sh/" target="_blank" >visit it</a>)
+🌱 - Lastest Project: Raffy.io (<a href="https://raffy.io/" target="_blank" >visit it</a>)
