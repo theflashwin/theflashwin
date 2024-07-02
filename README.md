@@ -6,4 +6,4 @@
 <br></br>
 🌱 - Learning: Rust
 <br></br>
-🌱 - Lastest Project: Raffy.io (<a href="https://raffy.io/" target="_blank" >visit it</a>)
+🌱 - Lastest Project: AKPsi Points Tracker (<a href="https://gtakpsi-points-tracker.web.app/" target="_blank" >visit it</a>)
